@@ -1,0 +1,627 @@
+{
+ "profile": {
+  "name": "George Ayad",
+  "title": "Financial & Data Analyst",
+  "tagline": "I turn complex financial and operational data into clear, actionable insight with Power BI, SQL, Excel and Python.",
+  "about": "Financial and Data Analyst with hands-on experience in group-level revenue analysis, financial reporting and performance insights within large healthcare organisations. Strong background in Power BI, Excel, SQL and data modelling, with a proven ability to translate complex financial data into clear, actionable insights for management. Experienced with trial balance, balance sheets and departmental performance tracking across multiple business units.",
+  "email": "Georgeayad3021@gmail.com",
+  "location": "Cairo, Egypt",
+  "linkedin": "https://www.linkedin.com/in/george3yad/",
+  "github": "https://github.com/WickyAnalytics",
+  "resume_url": "assets/docs/George_Ayad_Resume.pdf",
+  "hero_image": "assets/img/profile/hero-illustration.png",
+  "status": "Open to opportunities",
+  "about_image": "assets/img/profile/george.png",
+  "phone": "01069477885"
+ },
+ "items": [
+  {
+   "kind": "project",
+   "data": {
+    "title": "UK Railway Analysis & Forecasting",
+    "tech": [
+     "Python",
+     "SQL",
+     "Power BI",
+     "Tableau",
+     "Excel"
+    ],
+    "summary": "End-to-end project covering data cleaning, schema optimisation, modelling, analysis and revenue forecasting (Prophet, Random Forest) for the UK railway sector. Built as part of the Digital Egypt Pioneers Initiative (DEPI) – Google Data Analytics track.",
+    "impact": "Forecasted £195K monthly revenue with 92% accuracy",
+    "images": [
+     "assets/img/projects/railway-bi.png",
+     "assets/img/projects/railway-tableau.png"
+    ],
+    "links": [
+     {
+      "label": "GitHub",
+      "url": "https://github.com/WickyAnalytics/UK-Railway-Analysis-1"
+     },
+     {
+      "label": "Power BI",
+      "url": "https://app.powerbi.com/groups/me/reports/c3118463-ff83-4667-9bfe-477e52daf646/30f32fb1dd5362399c4d?experience=power-bi"
+     },
+     {
+      "label": "Tableau",
+      "url": "https://public.tableau.com/app/profile/sara.samy7501/viz/shared/RH2PBHK6W"
+     }
+    ],
+    "featured": true,
+    "category": [
+     "Transportation"
+    ]
+   },
+   "sort_order": 0
+  },
+  {
+   "kind": "project",
+   "data": {
+    "title": "Healthcare Patient Flow Analysis",
+    "tech": [
+     "Power BI",
+     "SQL"
+    ],
+    "summary": "Analysed appointment data to optimise scheduling and resource allocation in a hospital environment.",
+    "impact": "Reduced wait times by 10% via scheduling and capacity analysis",
+    "images": [
+     "assets/img/projects/healthcare-analysis.png"
+    ],
+    "links": [
+     {
+      "label": "GitHub",
+      "url": "https://github.com/WickyAnalytics/power-bi/tree/main/Healthcare"
+     },
+     {
+      "label": "Power BI",
+      "url": "https://app.powerbi.com/groups/me/reports/0969b5cb-688f-4538-80b8-54106ea060de/bad20df0bda55968b4ba?experience=power-bi"
+     }
+    ],
+    "featured": true,
+    "category": [
+     "Healthcare"
+    ]
+   },
+   "sort_order": 1
+  },
+  {
+   "kind": "project",
+   "data": {
+    "title": "Pharmacy Drug Sales Analysis",
+    "tech": [
+     "Power BI"
+    ],
+    "summary": "Power BI dashboards analysing drug transactions, revenue and profit metrics to surface top-selling products.",
+    "impact": "Improved marketing ROI by 20% by identifying top-selling products",
+    "images": [
+     "assets/img/projects/drug-analysis-1.png",
+     "assets/img/projects/drug-analysis-2.png",
+     "assets/img/projects/drug-analysis-3.png",
+     "assets/img/projects/drug-analysis-4.png",
+     "assets/img/projects/drug-analysis-5.png",
+     "assets/img/projects/drug-analysis-6.png"
+    ],
+    "links": [
+     {
+      "label": "GitHub",
+      "url": "https://github.com/WickyAnalytics/power-bi/tree/main/Drug%20Analysis"
+     },
+     {
+      "label": "Power BI",
+      "url": "https://app.powerbi.com/groups/me/reports/0ace70cc-1df0-4d24-9dca-f2bac43f758d/eae47fb8733501778dc6?experience=power-bi"
+     }
+    ],
+    "featured": true,
+    "category": [
+     "Healthcare",
+     "Sales"
+    ]
+   },
+   "sort_order": 2
+  },
+  {
+   "kind": "project",
+   "data": {
+    "title": "Bank Loan Analysis",
+    "tech": [
+     "Excel",
+     "Power BI",
+     "SQL"
+    ],
+    "summary": "Dashboards for tracking loan metrics across Excel and Power BI.",
+    "impact": "Reduced delinquency rates by 15%",
+    "images": [
+     "assets/img/projects/finance-analysis-excel-1.png",
+     "assets/img/projects/finance-analysis-excel-2.png",
+     "assets/img/projects/finance-analysis-excel-3.png",
+     "assets/img/projects/finance-analysis-powerbi-1.png",
+     "assets/img/projects/finance-analysis-powerbi-2.png"
+    ],
+    "links": [
+     {
+      "label": "GitHub",
+      "url": "https://github.com/WickyAnalytics/Financial-domain"
+     }
+    ],
+    "featured": false,
+    "category": [
+     "Finance"
+    ]
+   },
+   "sort_order": 3
+  },
+  {
+   "kind": "project",
+   "data": {
+    "title": "HR Analysis",
+    "tech": [
+     "Excel",
+     "Tableau",
+     "Power BI",
+     "SQL"
+    ],
+    "summary": "Analysed HR data to improve employee performance and retention.",
+    "impact": "",
+    "images": [
+     "assets/img/projects/hr-analysis-tableau.png",
+     "assets/img/projects/hr-analysis-2.png"
+    ],
+    "links": [
+     {
+      "label": "GitHub",
+      "url": "https://github.com/WickyAnalytics/HrProject-Sql-powerBi-Tableau-Excel"
+     },
+     {
+      "label": "Tableau",
+      "url": "https://public.tableau.com/app/profile/george.ayad2531/viz/HRAnalysticsDashboard_17267348940640/HRAnalysticsDashboard"
+     }
+    ],
+    "featured": false,
+    "category": [
+     "HR"
+    ]
+   },
+   "sort_order": 4
+  },
+  {
+   "kind": "project",
+   "data": {
+    "title": "Sales Dynamic Analysis",
+    "tech": [
+     "Power BI",
+     "SQL"
+    ],
+    "summary": "Analysed sales data to identify trends and optimise performance.",
+    "impact": "",
+    "images": [
+     "assets/img/projects/sales-analysis-1.png",
+     "assets/img/projects/sales-analysis-2.png"
+    ],
+    "links": [
+     {
+      "label": "GitHub",
+      "url": "https://github.com/WickyAnalytics/power-bi/tree/main/Sales%20Project"
+     },
+     {
+      "label": "Power BI",
+      "url": "https://app.powerbi.com/groups/me/reports/22af69a0-9590-4d98-b47f-b5add69a098d/d63e2f64e0b1b718748f?experience=power-bi"
+     }
+    ],
+    "featured": false,
+    "category": [
+     "Sales"
+    ]
+   },
+   "sort_order": 5
+  },
+  {
+   "kind": "project",
+   "data": {
+    "title": "Transportation Analysis",
+    "tech": [
+     "Power BI"
+    ],
+    "summary": "Dashboards for tracking peak hours, riders and key business indicators.",
+    "impact": "",
+    "images": [
+     "assets/img/projects/transit-analysis.png"
+    ],
+    "links": [
+     {
+      "label": "GitHub",
+      "url": "https://github.com/WickyAnalytics/power-bi/tree/main/Transportation%20project"
+     },
+     {
+      "label": "Power BI",
+      "url": "https://app.powerbi.com/groups/me/reports/52f12ca2-cb3c-49af-a1b9-c86e7655757a/dd9d959190b52cd62d50?experience=power-bi"
+     }
+    ],
+    "featured": false,
+    "category": [
+     "Transportation"
+    ]
+   },
+   "sort_order": 6
+  },
+  {
+   "kind": "project",
+   "data": {
+    "title": "Bike Sales Analysis",
+    "tech": [
+     "Excel"
+    ],
+    "summary": "Interactive Excel dashboard that lets sales managers monitor team performance.",
+    "impact": "",
+    "images": [
+     "assets/img/projects/bikes-analysis-excel.png"
+    ],
+    "links": [
+     {
+      "label": "GitHub",
+      "url": "https://github.com/WickyAnalytics/Excel/tree/main/Depi_Bike"
+     }
+    ],
+    "featured": false,
+    "category": [
+     "Sales"
+    ]
+   },
+   "sort_order": 7
+  },
+  {
+   "kind": "project",
+   "data": {
+    "title": "Gaming Agency Progress Tracker",
+    "tech": [
+     "Google Sheets"
+    ],
+    "summary": "Tracked and analysed progress for a gaming agency using Google Sheets.",
+    "impact": "",
+    "images": [
+     "assets/img/projects/gaming-agency-1.png",
+     "assets/img/projects/gaming-agency-2.png"
+    ],
+    "links": [
+     {
+      "label": "GitHub",
+      "url": "https://github.com/WickyAnalytics/static-Raid-magment-porject"
+     }
+    ],
+    "featured": false,
+    "category": [
+     "Gaming"
+    ]
+   },
+   "sort_order": 8
+  },
+  {
+   "kind": "experience",
+   "data": {
+    "role": "Financial Analyst",
+    "company": "Degla EGYPRO",
+    "location": "Madi, Cairo",
+    "start": "Nov 2025",
+    "end": "Present",
+    "bullets": [
+     "Analysed monthly revenue and expense performance, providing insights to support management decisions.",
+     "Prepared, reviewed and validated trial balance reports, ensuring accuracy and consistency of financial data.",
+     "Assisted in the preparation and analysis of balance sheets, identifying key variances and financial trends.",
+     "Monitored expense structures and allocations, highlighting opportunities for cost control and efficiency."
+    ]
+   },
+   "sort_order": 9
+  },
+  {
+   "kind": "experience",
+   "data": {
+    "role": "Data Analyst",
+    "company": "Andalusia Hospital",
+    "location": "Madi, Cairo",
+    "start": "Dec 2024",
+    "end": "Jan 2026",
+    "bullets": [
+     "Worked at group level, analysing revenue performance across multiple hospitals within Andalusia Group.",
+     "Tracked hospital- and department-level revenue, providing visibility into performance drivers and operational gaps.",
+     "Built dynamic Power BI dashboards monitoring revenue from patient and service level up to departments and business units.",
+     "Automated monthly group revenue consolidation with Power Query, reducing manual reporting effort by 40%.",
+     "Designed data models to analyse profitability by specialty, service type and referral source.",
+     "Partnered with finance leadership to deliver standardised KPI reports for executive decision-making."
+    ]
+   },
+   "sort_order": 10
+  },
+  {
+   "kind": "education",
+   "data": {
+    "degree": "MSc in Software Engineering",
+    "school": "Helwan University",
+    "period": "Jul 2023 – Present",
+    "details": [
+     "Thesis: Optimizing Data Analysis Workflows through Advanced Software Solutions"
+    ]
+   },
+   "sort_order": 11
+  },
+  {
+   "kind": "education",
+   "data": {
+    "degree": "BSc in Computer Science",
+    "school": "Future University",
+    "period": "Sep 2019 – Jan 2023",
+    "details": [
+     "Graduation project: AI-based traffic violation detection (95% accuracy)",
+     "Courses: Machine Learning, Database Systems, Data Structures"
+    ]
+   },
+   "sort_order": 12
+  },
+  {
+   "kind": "certification",
+   "data": {
+    "title": "Google Data Analyst",
+    "issuer": "DEPI – Digital Egypt Pioneers Initiative",
+    "year": "2025",
+    "url": ""
+   },
+   "sort_order": 13
+  },
+  {
+   "kind": "certification",
+   "data": {
+    "title": "Power BI Specialist",
+    "issuer": "Maven Analytics",
+    "year": "2024",
+    "url": ""
+   },
+   "sort_order": 14
+  },
+  {
+   "kind": "certification",
+   "data": {
+    "title": "Python for Data Analysis",
+    "issuer": "Maven Analytics",
+    "year": "2024",
+    "url": ""
+   },
+   "sort_order": 15
+  },
+  {
+   "kind": "certification",
+   "data": {
+    "title": "Advanced SQL",
+    "issuer": "365 Data Science",
+    "year": "2025",
+    "url": ""
+   },
+   "sort_order": 16
+  },
+  {
+   "kind": "certification",
+   "data": {
+    "title": "Data Analytics Virtual Internship",
+    "issuer": "Deloitte",
+    "year": "2025",
+    "url": ""
+   },
+   "sort_order": 17
+  },
+  {
+   "kind": "skill",
+   "data": {
+    "category": "Programming",
+    "name": "Python",
+    "icon": "assets/img/skills/python.png"
+   },
+   "sort_order": 18
+  },
+  {
+   "kind": "skill",
+   "data": {
+    "category": "Programming",
+    "name": "SQL",
+    "icon": "assets/img/skills/sql-new.png"
+   },
+   "sort_order": 19
+  },
+  {
+   "kind": "skill",
+   "data": {
+    "category": "Programming",
+    "name": "Pandas",
+    "icon": "assets/img/skills/pandas.svg"
+   },
+   "sort_order": 20
+  },
+  {
+   "kind": "skill",
+   "data": {
+    "category": "Programming",
+    "name": "NumPy",
+    "icon": "assets/img/skills/numpy.png"
+   },
+   "sort_order": 21
+  },
+  {
+   "kind": "skill",
+   "data": {
+    "category": "BI & Visualization",
+    "name": "Power BI",
+    "icon": "assets/img/skills/powerbi.png"
+   },
+   "sort_order": 22
+  },
+  {
+   "kind": "skill",
+   "data": {
+    "category": "BI & Visualization",
+    "name": "Tableau",
+    "icon": "assets/img/skills/tableau.png"
+   },
+   "sort_order": 23
+  },
+  {
+   "kind": "skill",
+   "data": {
+    "category": "BI & Visualization",
+    "name": "Excel",
+    "icon": "assets/img/skills/excel.png"
+   },
+   "sort_order": 24
+  },
+  {
+   "kind": "skill",
+   "data": {
+    "category": "BI & Visualization",
+    "name": "Google Sheets",
+    "icon": "assets/img/skills/sheets-seeklogo.png"
+   },
+   "sort_order": 25
+  },
+  {
+   "kind": "skill",
+   "data": {
+    "category": "Data Engineering",
+    "name": "MySQL",
+    "icon": "assets/img/skills/mysql-svgrepo-com.svg"
+   },
+   "sort_order": 26
+  },
+  {
+   "kind": "skill",
+   "data": {
+    "category": "Data Engineering",
+    "name": "SQL Server",
+    "icon": "assets/img/skills/sql-server.png"
+   },
+   "sort_order": 27
+  },
+  {
+   "kind": "skill",
+   "data": {
+    "category": "Data Engineering",
+    "name": "ETL Pipelines",
+    "icon": ""
+   },
+   "sort_order": 28
+  },
+  {
+   "kind": "skill",
+   "data": {
+    "category": "Data Engineering",
+    "name": "Apache Airflow (basic)",
+    "icon": ""
+   },
+   "sort_order": 29
+  },
+  {
+   "kind": "skill",
+   "data": {
+    "category": "Finance",
+    "name": "Financial Analysis",
+    "icon": ""
+   },
+   "sort_order": 30
+  },
+  {
+   "kind": "skill",
+   "data": {
+    "category": "Finance",
+    "name": "Revenue & Variance Analysis",
+    "icon": ""
+   },
+   "sort_order": 31
+  },
+  {
+   "kind": "skill",
+   "data": {
+    "category": "Finance",
+    "name": "Trial Balance & Balance Sheet",
+    "icon": ""
+   },
+   "sort_order": 32
+  },
+  {
+   "kind": "skill",
+   "data": {
+    "category": "Tools",
+    "name": "GitHub",
+    "icon": "assets/img/skills/whitegithub.png"
+   },
+   "sort_order": 33
+  },
+  {
+   "kind": "skill",
+   "data": {
+    "category": "Tools",
+    "name": "Jupyter",
+    "icon": "assets/img/skills/jupyter.png"
+   },
+   "sort_order": 34
+  },
+  {
+   "kind": "skill",
+   "data": {
+    "category": "Tools",
+    "name": "VS Code",
+    "icon": "assets/img/skills/vs.png"
+   },
+   "sort_order": 35
+  },
+  {
+   "kind": "skill",
+   "data": {
+    "category": "Tools",
+    "name": "Figma",
+    "icon": "assets/img/skills/figma.png"
+   },
+   "sort_order": 36
+  },
+  {
+   "kind": "service",
+   "data": {
+    "title": "Data Cleaning & Preparation",
+    "description": "Raw data made accurate, consistent and analysis-ready: missing values, duplicates and transformations handled."
+   },
+   "sort_order": 37
+  },
+  {
+   "kind": "service",
+   "data": {
+    "title": "Dashboards & Visualization",
+    "description": "Interactive dashboards in Power BI, Tableau, Excel and Python that let stakeholders grasp insights at a glance."
+   },
+   "sort_order": 38
+  },
+  {
+   "kind": "service",
+   "data": {
+    "title": "Financial Reporting & Insights",
+    "description": "Revenue, expense and variance analysis, trial balance and balance sheet reviews, turned into clear management reports."
+   },
+   "sort_order": 39
+  },
+  {
+   "kind": "service",
+   "data": {
+    "title": "SQL Querying & Optimization",
+    "description": "Efficient queries and schema design to extract, shape and analyse data from relational databases."
+   },
+   "sort_order": 40
+  },
+  {
+   "kind": "service",
+   "data": {
+    "title": "Forecasting & Machine Learning",
+    "description": "Prophet and Random Forest models for forecasting, with solid preprocessing, feature engineering and evaluation."
+   },
+   "sort_order": 41
+  },
+  {
+   "kind": "service",
+   "data": {
+    "title": "Reporting Automation",
+    "description": "Power Query and Python pipelines that replace manual monthly consolidation work."
+   },
+   "sort_order": 42
+  }
+ ]
+}
